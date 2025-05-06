@@ -1,0 +1,19 @@
+{
+    "spider_name": "wholefoods",
+    "start_time": "2025-05-06 18:37:13",
+    "end_time": "2025-05-06 18:38:51",
+    "runtime_seconds": 97.06,
+    "runtime_minutes": 1.62,
+    "store_ids": [
+        10509
+    ],
+    "categories": [
+        "produce"
+    ],
+    "item_scraped_count": 6,
+    "response_received_count": 10,
+    "request_count": 10,
+    "status_200_count": 10,
+    "status_404_count": 0,
+    "status_500_count": 0
+}

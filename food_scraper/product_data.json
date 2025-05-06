@@ -1,0 +1,896 @@
+[
+{
+    "name": "Natural Delights Organic Pitted Medjool Dates",
+    "price": 9.49,
+    "slug": "bard-valley-natural-delights-organic-pitted-medjool-dates-b075m1sxl2",
+    "brand": "BARD VALLEY",
+    "store_id": 10509,
+    "asin": "B075M1SXL2",
+    "amazon_product_id": "[9792300010]",
+    "rank": 90000000,
+    "is_available": true,
+    "detail_uri": "product/bard-valley-bard-valley-natural-delights-organic-pitted-medjool-dates-b075m1sxl2",
+    "child_category": "Fresh Fruit",
+    "diets": [
+        "Dairy-Free",
+        "Kosher",
+        "Organic",
+        "Paleo-Friendly",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "ingredients": [
+        "Ingredients: Organic Medjool Dates"
+    ],
+    "nutrition_group": "adult",
+    "nutrition_label_format": "future",
+    "nutrition_elements": [
+        {
+            "key": "addedSugar",
+            "name": "Added Sugars",
+            "unit_of_measure": "g",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 50
+        },
+        {
+            "key": "calcium",
+            "name": "Calcium",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 26,
+            "recommended_daily_value": 1300
+        },
+        {
+            "key": "calories",
+            "name": "Calories",
+            "unit_of_measure": "calories",
+            "amount_per_serving": null,
+            "recommended_daily_value": 2000
+        },
+        {
+            "key": "carbohydrates",
+            "name": "Total Carbohydrate",
+            "unit_of_measure": "g",
+            "amount_per_serving": 33,
+            "recommended_daily_value": 275
+        },
+        {
+            "key": "cholesterol",
+            "name": "Cholesterol",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 300
+        },
+        {
+            "key": "fiber",
+            "name": "Dietary Fiber",
+            "unit_of_measure": "g",
+            "amount_per_serving": 3.92,
+            "recommended_daily_value": 28
+        },
+        {
+            "key": "iron",
+            "name": "Iron",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.36,
+            "recommended_daily_value": 18
+        },
+        {
+            "key": "potassium",
+            "name": "Potassium",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 282,
+            "recommended_daily_value": 4700
+        },
+        {
+            "key": "protein",
+            "name": "Protein",
+            "unit_of_measure": "g",
+            "amount_per_serving": null,
+            "recommended_daily_value": 50
+        },
+        {
+            "key": "saturatedFat",
+            "name": "Saturated Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 20
+        },
+        {
+            "key": "sodium",
+            "name": "Sodium",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 2300
+        },
+        {
+            "key": "sugar",
+            "name": "Sugars",
+            "unit_of_measure": "g",
+            "amount_per_serving": null,
+            "recommended_daily_value": null
+        },
+        {
+            "key": "totalFat",
+            "name": "Total Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 78
+        },
+        {
+            "key": "transFat",
+            "name": "Trans Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": null,
+            "recommended_daily_value": null
+        },
+        {
+            "key": "vitaminD",
+            "name": "Vitamin D",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 20
+        }
+    ],
+    "serving_info": {
+        "servingSize": 3,
+        "servingSizeUom": "dates",
+        "servingSizeDisplay": "2-3",
+        "secondaryServingSize": 46,
+        "secondaryServingSizeUom": "g",
+        "secondaryServingSizeDisplay": "46",
+        "totalSize": 12,
+        "totalSizeUom": "oz",
+        "secondaryTotalSize": 340,
+        "secondaryTotalSizeUom": "g",
+        "servingsPerContainer": 7,
+        "servingsPerContainerDisplay": "7"
+    },
+    "is_alcoholic": false,
+    "image": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/653ac9671c28e3243e038fdd_2023-10-26_20-17-51_other.main.jpg",
+    "related_products": [
+        "natural-delights-fresh-medjool-dates-organic-whole-1-lb-b00c0tilqy",
+        "joolies-organic-pitted-medjool-dates-9-oz-b0bsp1w4ct"
+    ]
+},
+{
+    "name": "Whole Baby Bella Mushrooms",
+    "price": 3.79,
+    "slug": "365-by-whole-foods-market-whole-baby-bella-mushrooms-b07nqdlf47",
+    "brand": "365 by Whole Foods Market",
+    "store_id": 10509,
+    "asin": "B07NQDLF47",
+    "amazon_product_id": "9948247611",
+    "rank": 90000000,
+    "is_available": true,
+    "detail_uri": "product/365-by-whole-foods-market-whole-baby-bella-mushrooms-b07nqdlf47",
+    "child_category": "Fresh Herbs",
+    "diets": [
+        "Dairy-Free",
+        "Engine 2",
+        "Gluten-Free",
+        "Keto-Friendly",
+        "Organic",
+        "Paleo-Friendly",
+        "Sugar-Conscious",
+        "Vegetarian"
+    ],
+    "ingredients": [
+        "Whole Baby Bella Mushrooms"
+    ],
+    "nutrition_group": "adult",
+    "nutrition_label_format": "future",
+    "nutrition_elements": [
+        {
+            "key": "zinc",
+            "name": "Zinc",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.44,
+            "recommended_daily_value": 11
+        },
+        {
+            "key": "vitaminK",
+            "name": "Vitamin K",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 120
+        },
+        {
+            "key": "vitaminE",
+            "name": "Vitamin E",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 15
+        },
+        {
+            "key": "vitaminD",
+            "name": "Vitamin D",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 8,
+            "recommended_daily_value": 20
+        },
+        {
+            "key": "vitaminC",
+            "name": "Vitamin C",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 90
+        },
+        {
+            "key": "vitaminB6",
+            "name": "Pyridoxine (Vitamin B6)",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.14,
+            "recommended_daily_value": 1.7
+        },
+        {
+            "key": "vitaminB12",
+            "name": "Vitamin B12",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 0.05,
+            "recommended_daily_value": 2.4
+        },
+        {
+            "key": "vitaminA",
+            "name": "Vitamin A",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 900
+        },
+        {
+            "key": "transFat",
+            "name": "Trans Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": null,
+            "recommended_daily_value": null
+        },
+        {
+            "key": "totalFat",
+            "name": "Total Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": 0.29,
+            "recommended_daily_value": 78
+        },
+        {
+            "key": "thiamin",
+            "name": "Thiamine (Vitamin B1)",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.05,
+            "recommended_daily_value": 1.2
+        },
+        {
+            "key": "sugar",
+            "name": "Sugars",
+            "unit_of_measure": "g",
+            "amount_per_serving": null,
+            "recommended_daily_value": null
+        },
+        {
+            "key": "sodium",
+            "name": "Sodium",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 8.05,
+            "recommended_daily_value": 2300
+        },
+        {
+            "key": "selenium",
+            "name": "Selenium",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 16.5,
+            "recommended_daily_value": 55
+        },
+        {
+            "key": "saturatedFat",
+            "name": "Saturated Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": 0.05,
+            "recommended_daily_value": 20
+        },
+        {
+            "key": "riboflavin",
+            "name": "Riboflavin (Vitamin B2)",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.1,
+            "recommended_daily_value": 1.3
+        },
+        {
+            "key": "protein",
+            "name": "Protein",
+            "unit_of_measure": "g",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 50
+        },
+        {
+            "key": "potassium",
+            "name": "Potassium",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 282,
+            "recommended_daily_value": 4700
+        },
+        {
+            "key": "polyunsaturatedFat",
+            "name": "Polyunsaturated Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": null,
+            "recommended_daily_value": null
+        },
+        {
+            "key": "phosphorus",
+            "name": "Phosphorus",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 100,
+            "recommended_daily_value": 1250
+        },
+        {
+            "key": "pantothenicAcid",
+            "name": "Pantothenic Acid",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 1,
+            "recommended_daily_value": 5
+        },
+        {
+            "key": "niacin",
+            "name": "Niacin (Vitamin B3)",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 4,
+            "recommended_daily_value": 16
+        },
+        {
+            "key": "monounsaturatedFat",
+            "name": "Monounsaturated Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": null,
+            "recommended_daily_value": null
+        },
+        {
+            "key": "manganese",
+            "name": "Manganese",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.05,
+            "recommended_daily_value": 2.3
+        },
+        {
+            "key": "iron",
+            "name": "Iron",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.36,
+            "recommended_daily_value": 18
+        },
+        {
+            "key": "folicAcid",
+            "name": "Folic Acid",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 400
+        },
+        {
+            "key": "folate",
+            "name": "Folate (Folacin)",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 24,
+            "recommended_daily_value": 400
+        },
+        {
+            "key": "fiber",
+            "name": "Dietary Fiber",
+            "unit_of_measure": "g",
+            "amount_per_serving": 1.09,
+            "recommended_daily_value": 28
+        },
+        {
+            "key": "copper",
+            "name": "Copper",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.23,
+            "recommended_daily_value": 0.9
+        },
+        {
+            "key": "cholesterol",
+            "name": "Cholesterol",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 300
+        },
+        {
+            "key": "carbohydrates",
+            "name": "Total Carbohydrate",
+            "unit_of_measure": "g",
+            "amount_per_serving": 3.3,
+            "recommended_daily_value": 275
+        },
+        {
+            "key": "calories",
+            "name": "Calories",
+            "unit_of_measure": "calories",
+            "amount_per_serving": 18,
+            "recommended_daily_value": 2000
+        },
+        {
+            "key": "calcium",
+            "name": "Calcium",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 1300
+        }
+    ],
+    "serving_info": {
+        "servingSize": 84,
+        "servingSizeUom": "g",
+        "servingSizeDisplay": "84",
+        "secondaryServingSize": 84,
+        "secondaryServingSizeUom": "g",
+        "secondaryServingSizeDisplay": "84",
+        "totalSize": 8,
+        "totalSizeUom": "oz",
+        "secondaryTotalSize": 227,
+        "secondaryTotalSizeUom": "g"
+    },
+    "is_alcoholic": false,
+    "image": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6683734a59289ef6a9330fa2_2024-07-08_15-27-08_front.main.jpg",
+    "related_products": [
+        "produce-baby-bella-mushrooms-b07fzhrm35",
+        "365-by-whole-foods-market-sliced-baby-bella-mushrooms-b00e3k22m2"
+    ]
+},
+{
+    "name": "Organic Orange Sweet Potato",
+    "price": 2.99,
+    "slug": "produce-organic-orange-sweet-potato-b07fzkxqt2",
+    "brand": "PRODUCE",
+    "store_id": 10509,
+    "asin": "B07FZKXQT2",
+    "amazon_product_id": "[94816]",
+    "rank": 90000000,
+    "is_available": true,
+    "detail_uri": "product/produce-potato-sweet-orange-organic-16-ounce-b07fzkxqt2",
+    "child_category": "Fresh Vegetables",
+    "diets": [
+        "Dairy-Free",
+        "Gluten-Free",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "ingredients": [
+        "Ingredients: Potatoes"
+    ],
+    "nutrition_group": "adult",
+    "nutrition_label_format": "current",
+    "is_alcoholic": false,
+    "unit_of_measure": "lb",
+    "image": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/653c1dd34a463c3e3cf00152_2023-10-27_20-30-19_front.main.jpg",
+    "related_products": [
+        "produce-organic-sweet-potato-b000p6h2mi",
+        "produce-organic-red-sweet-potato-b00qt73u14"
+    ]
+},
+{
+    "name": "Organic Honey Citrus Chopped Salad Kit",
+    "price": 5.99,
+    "slug": "taylor-farms-organic-honey-citrus-chopped-salad-kit-b0bgz684yf",
+    "brand": "Taylor Farms",
+    "store_id": 10509,
+    "asin": "B0BGZ684YF",
+    "amazon_product_id": "[3022306107]",
+    "rank": 90000000,
+    "is_available": true,
+    "detail_uri": "product/taylor-farms-organic-honey-citrus-chopped-salad-kit-b0bgz684yf",
+    "child_category": "Fresh Vegetables",
+    "diets": [
+        "Organic",
+        "Vegetarian"
+    ],
+    "ingredients": [
+        "Ingredients: Organic Romaine Lettuce, Organic Citrus Vinaigrette (Organic Expeller Pressed Soybean Oil, Water, Organic Honey, Organic Distilled Vinegar, Organic Cane Sugar, Organic Orange Juice Concentrate, Salt, Organic Lemon Juice Concentrate, Xanthan Gum, Organic Spice, Organic Cayenne Pepper), Organic Kale, Organic Radicchio, Organic Dried Cranberries (Organic Cranberries, Organic Sugar, Organic Sunflower Oil), Organic Feta Cheese (Organic Feta [Pasteurized Organic Milk, Salt, Cheese Cultures, Enzymes], Organic Potato Starch [To Prevent Caking]), Organic Quinoa."
+    ],
+    "nutrition_group": "adult",
+    "nutrition_label_format": "future",
+    "nutrition_elements": [
+        {
+            "key": "addedSugar",
+            "name": "Added Sugars",
+            "unit_of_measure": "g",
+            "amount_per_serving": 15,
+            "recommended_daily_value": 50
+        },
+        {
+            "key": "calcium",
+            "name": "Calcium",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 130,
+            "recommended_daily_value": 1300
+        },
+        {
+            "key": "calories",
+            "name": "Calories",
+            "unit_of_measure": "calories",
+            "amount_per_serving": null,
+            "recommended_daily_value": 2000
+        },
+        {
+            "key": "carbohydrates",
+            "name": "Total Carbohydrate",
+            "unit_of_measure": "g",
+            "amount_per_serving": 33,
+            "recommended_daily_value": 275
+        },
+        {
+            "key": "cholesterol",
+            "name": "Cholesterol",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 9,
+            "recommended_daily_value": 300
+        },
+        {
+            "key": "fiber",
+            "name": "Dietary Fiber",
+            "unit_of_measure": "g",
+            "amount_per_serving": 5.04,
+            "recommended_daily_value": 28
+        },
+        {
+            "key": "iron",
+            "name": "Iron",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 1.8,
+            "recommended_daily_value": 18
+        },
+        {
+            "key": "potassium",
+            "name": "Potassium",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 470,
+            "recommended_daily_value": 4700
+        },
+        {
+            "key": "protein",
+            "name": "Protein",
+            "unit_of_measure": "g",
+            "amount_per_serving": null,
+            "recommended_daily_value": 50
+        },
+        {
+            "key": "saturatedFat",
+            "name": "Saturated Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": 3.6,
+            "recommended_daily_value": 20
+        },
+        {
+            "key": "sodium",
+            "name": "Sodium",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 391,
+            "recommended_daily_value": 2300
+        },
+        {
+            "key": "sugar",
+            "name": "Sugars",
+            "unit_of_measure": "g",
+            "amount_per_serving": null,
+            "recommended_daily_value": null
+        },
+        {
+            "key": "totalFat",
+            "name": "Total Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": 24.96,
+            "recommended_daily_value": 78
+        },
+        {
+            "key": "transFat",
+            "name": "Trans Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": null,
+            "recommended_daily_value": null
+        },
+        {
+            "key": "vitaminD",
+            "name": "Vitamin D",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 20
+        }
+    ],
+    "serving_info": {
+        "servingSize": 1,
+        "servingSizeUom": "cup",
+        "servingSizeDisplay": "1",
+        "secondaryServingSize": 100,
+        "secondaryServingSizeUom": "g",
+        "secondaryServingSizeDisplay": "100",
+        "totalSize": 9.25,
+        "totalSizeUom": "oz",
+        "secondaryTotalSize": 262,
+        "secondaryTotalSizeUom": "g",
+        "servingsPerContainer": 2.5,
+        "servingsPerContainerDisplay": "about2.5"
+    },
+    "is_alcoholic": false,
+    "image": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/67db28f670e3e5000eb8af1c_2025-03-19_20-28-46_front.main.jpg",
+    "related_products": [
+        "taylor-farms-wedge-style-chopped-salad-kit-b0dfhpvbnc",
+        "taylor-farms-mexican-style-street-corn-chopped-kit-b0bgzbndlz"
+    ]
+},
+{
+    "name": "Organic Heirloom Tomatoes",
+    "price": 5.99,
+    "slug": "produce-organic-heirloom-tomatoes-b000p6x5a6",
+    "brand": "PRODUCE",
+    "store_id": 10509,
+    "asin": "B000P6X5A6",
+    "amazon_product_id": "93423",
+    "rank": 90000000,
+    "is_available": true,
+    "detail_uri": "product/produce-organic-heirloom-tomato-b000p6x5a6",
+    "child_category": "Fresh Fruit",
+    "diets": [
+        "Gluten-Free",
+        "Keto-Friendly",
+        "Paleo-Friendly",
+        "Vegan",
+        "Vegetarian",
+        "Whole Foods Diet"
+    ],
+    "ingredients": [
+        "Heirloom Tomato"
+    ],
+    "nutrition_group": "adult",
+    "nutrition_label_format": "future",
+    "nutrition_elements": [
+        {
+            "key": "zinc",
+            "name": "Zinc",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.086,
+            "recommended_daily_value": 11
+        },
+        {
+            "key": "vitaminK",
+            "name": "Vitamin K",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 12.423,
+            "recommended_daily_value": 120
+        },
+        {
+            "key": "vitaminE",
+            "name": "Vitamin E",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.696,
+            "recommended_daily_value": 15
+        },
+        {
+            "key": "vitaminD",
+            "name": "Vitamin D",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 20
+        },
+        {
+            "key": "vitaminC",
+            "name": "Vitamin C",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 28.782,
+            "recommended_daily_value": 90
+        },
+        {
+            "key": "vitaminB6",
+            "name": "Vitamin B6",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.1,
+            "recommended_daily_value": 1.7
+        },
+        {
+            "key": "vitaminB12",
+            "name": "Vitamin B12",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 2.4
+        },
+        {
+            "key": "vitaminA",
+            "name": "Vitamin A",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 789.66,
+            "recommended_daily_value": 900
+        },
+        {
+            "key": "transFat",
+            "name": "Trans Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": 0,
+            "recommended_daily_value": null
+        },
+        {
+            "key": "totalFat",
+            "name": "Total Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": 0.246,
+            "recommended_daily_value": 78
+        },
+        {
+            "key": "thiamin",
+            "name": "Thiamin",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.074,
+            "recommended_daily_value": 1.2
+        },
+        {
+            "key": "sugar",
+            "name": "Sugars",
+            "unit_of_measure": "g",
+            "amount_per_serving": 4.92,
+            "recommended_daily_value": null
+        },
+        {
+            "key": "sodium",
+            "name": "Sodium",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 15.99,
+            "recommended_daily_value": 2300
+        },
+        {
+            "key": "selenium",
+            "name": "Selenium",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 0.492,
+            "recommended_daily_value": 55
+        },
+        {
+            "key": "saturatedFat",
+            "name": "Sat Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": 0.034,
+            "recommended_daily_value": 20
+        },
+        {
+            "key": "riboflavin",
+            "name": "Riboflavin",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.049,
+            "recommended_daily_value": 1.3
+        },
+        {
+            "key": "protein",
+            "name": "Protein",
+            "unit_of_measure": "g",
+            "amount_per_serving": 1.476,
+            "recommended_daily_value": 50
+        },
+        {
+            "key": "potassium",
+            "name": "Potassium",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 250.92,
+            "recommended_daily_value": 4700
+        },
+        {
+            "key": "polyunsaturatedFat",
+            "name": "Polyunsaturated Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": 0.1,
+            "recommended_daily_value": null
+        },
+        {
+            "key": "phosphorus",
+            "name": "Phosphorus",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 34.44,
+            "recommended_daily_value": 1250
+        },
+        {
+            "key": "pantothenicAcid",
+            "name": "Pantothenic Acid",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.615,
+            "recommended_daily_value": 5
+        },
+        {
+            "key": "niacin",
+            "name": "Niacin",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.615,
+            "recommended_daily_value": 16
+        },
+        {
+            "key": "monounsaturatedFat",
+            "name": "Monounsaturated Fat",
+            "unit_of_measure": "g",
+            "amount_per_serving": 0.037,
+            "recommended_daily_value": null
+        },
+        {
+            "key": "manganese",
+            "name": "Manganese",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.123,
+            "recommended_daily_value": 2.3
+        },
+        {
+            "key": "magnesium",
+            "name": "Magnesium",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 12.3,
+            "recommended_daily_value": 420
+        },
+        {
+            "key": "iron",
+            "name": "Iron",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.627,
+            "recommended_daily_value": 18
+        },
+        {
+            "key": "folicAcid",
+            "name": "Folic Acid",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 400
+        },
+        {
+            "key": "folate",
+            "name": "Folate",
+            "unit_of_measure": "mcg",
+            "amount_per_serving": 11.07,
+            "recommended_daily_value": 400
+        },
+        {
+            "key": "fiber",
+            "name": "Fiber",
+            "unit_of_measure": "g",
+            "amount_per_serving": 1.353,
+            "recommended_daily_value": 28
+        },
+        {
+            "key": "copper",
+            "name": "Copper",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0.111,
+            "recommended_daily_value": 0.9
+        },
+        {
+            "key": "cholesterol",
+            "name": "Cholesterol",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 0,
+            "recommended_daily_value": 300
+        },
+        {
+            "key": "carbohydrates",
+            "name": "Carbohydrates",
+            "unit_of_measure": "g",
+            "amount_per_serving": 6.273,
+            "recommended_daily_value": 275
+        },
+        {
+            "key": "calories",
+            "name": "Calories",
+            "unit_of_measure": "calories",
+            "amount_per_serving": 28.29,
+            "recommended_daily_value": 2000
+        },
+        {
+            "key": "calcium",
+            "name": "Calcium",
+            "unit_of_measure": "mg",
+            "amount_per_serving": 15.99,
+            "recommended_daily_value": 1300
+        }
+    ],
+    "serving_info": {
+        "servingSize": 1,
+        "servingSizeUom": "tomato",
+        "secondaryServingSize": 123,
+        "secondaryServingSizeUom": "g",
+        "totalSize": 1,
+        "totalSizeUom": "lb",
+        "servingsPerContainerDisplay": "Varies"
+    },
+    "is_alcoholic": false,
+    "unit_of_measure": "lb",
+    "image": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5d6671bf467302e8178c89fb_produce-heirloom-tomatoes-1.jpg",
+    "related_products": [
+        "produce-heirloom-tomato-b003tq34au",
+        "365-by-whole-foods-market-organic-grape-tomatoes-b000nocro0"
+    ]
+}
+]
