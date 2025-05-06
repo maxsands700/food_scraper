@@ -25,7 +25,6 @@ var/
 dbs/
 logs/
 httpcache/
-settings.py
 
 # Sensitive information
 *.env
